@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--
 **jyoooonh/jyoooonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
